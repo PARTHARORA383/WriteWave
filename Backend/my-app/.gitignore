@@ -5,6 +5,7 @@ dist
 
 .env
 .wrangler
+.wrangler.toml
 
 # Change them to your taste:
 package-lock.json
